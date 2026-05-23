@@ -1,6 +1,6 @@
 # GitHub Profile README for Vicks
 
-```md
+
 <h1 align="center">Hi 👋, I'm Gulshan Verma</h1>
 <h3 align="center">MERN Stack Developer from India 🚀</h3>
 
@@ -69,18 +69,4 @@
 ---
 
 <p align="center">⭐ From <b>Gulshan Verma</b></p>
-```
 
-# Kaise lagana hai
-
-1. GitHub me new repository banao
-2. Repository ka naam EXACT same rakho as username
-
-   * Example: `gulshanverma`
-3. `Add README.md` tick kar do
-4. Repo create karo
-5. Upar wala pura code README.md me paste karo
-6. `YOUR_USERNAME` ko apne username se replace karo
-7. Commit changes ✅
-
-Uske baad tera GitHub profile professional aur stylish dikhne lagega 🚀
