@@ -1,72 +1,140 @@
-# GitHub Profile README for Vicks
 
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Gulshan Verma</h1>
-<h3 align="center">MERN Stack Developer from India 🚀</h3>
+# Hey, I'm Gulshan Verma 👋
+### MERN / PERN Stack Developer 🚀
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Frontend+%2B+Backend+Developer;Learning+Next.js+and+TypeScript;Open+Source+Learner" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%2B+PERN+Developer;React+%7C+Node+%7C+PostgreSQL;Building+Cool+Projects+⚡" />
 
----
+<br/>
 
-## 👨‍💻 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gulshan-dev09)
 
-- 🔭 Currently working on **MERN Stack Projects**
-- 🌱 Learning **Next.js, TypeScript, shadcn/ui**
-- 💬 Ask me about **React, Node.js, MongoDB, Express**
-- ⚡ Fun fact: I love building cool UI designs ✨
+<img src="https://komarev.com/ghpvc/?username=gulshan-dev09&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 🙋‍♂️ About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode" />
-</p>
+```js
+const gulshan = {
+  role: "Full Stack Developer",
+  techStack: ["MERN", "PERN"],
+  currentlyWorking: ["KaamNear", "ERP + LMS"],
+  currentlyLearning: ["Next.js", "TypeScript", "shadcn/ui"],
+  passion: "Building modern & scalable web apps",
+};
+```
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+- 🔭 Currently working on **KaamNear** & **ERP + LMS**
+- 🌱 Learning modern frontend & scalable backend systems
+- 💬 Ask me about **React, Node.js, MongoDB, PostgreSQL**
+- ⚡ Love creating attractive & responsive UI designs
+- 🚀 Turning ideas into real-world products
 
 ---
 
-## 🌐 Connect With Me
+# 🛠️ Tech Stack
 
-<p align="left">
-<a href="https://github.com/YOUR_USERNAME" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 Gullu Mart
+> Modern e-commerce platform for online shopping
+
+`React.js` `Node.js` `MongoDB` `Express.js`
+
+✨ Features:
+- Product listing & filtering
+- Responsive modern UI
+- Authentication system
+- Fast shopping experience
+
+---
+
+## 🎟️ Gullu Tix
+> Smart online ticket booking platform
+
+`React.js` `Express.js` `MongoDB`
+
+✨ Features:
+- Easy ticket booking
+- Responsive interface
+- Secure user flow
+- Smooth user experience
+
+---
+
+## 📍 KaamNear *(Currently Working)*
+> Local jobs & nearby service finder platform
+
+`MERN Stack` `TailwindCSS`
+
+✨ Features:
+- Find nearby jobs/services
+- Real-time scalable architecture
+- Modern responsive design
+- User-friendly experience
+
+---
+
+## 🏫 ERP + LMS System *(Currently Working)*
+> Complete educational ERP + Learning Management platform
+
+`PERN Stack` `PostgreSQL` `Express.js` `React.js` `Node.js`
+
+✨ Features:
+- Student, teacher & admin management
+- Attendance & learning modules
+- Dashboard & analytics
+- Secure scalable architecture
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gulshan-dev09&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulshan-dev09&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=gulshan-dev09&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/gulshan-dev09">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
-</a>
-</p>
 
----
+</div>
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="snake animation" />
-</p>
+## ⚡ Quote
 
----
+*"Code. Build. Repeat. 🚀"*
 
-<p align="center">⭐ From <b>Gulshan Verma</b></p>
-
+</div>
+````
